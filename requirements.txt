@@ -1,0 +1,23 @@
+
+ultralytics==8.2.17
+
+torch==2.2.1+cu121
+torchvision==0.17.1+cu121
+torchaudio==2.2.1+cu121
+--extra-index-url https://download.pytorch.org/whl/cu121
+
+opencv-python==4.8.0.76
+pillow==10.2.0
+numpy==1.26.4
+
+easyocr==1.7.1
+
+pandas==2.1.4
+psutil==5.9.8
+pyyaml==6.0.1
+tqdm==4.66.2
+matplotlib==3.8.2
+
+lapx==0.5.7
+idna==3.4
+requests==2.31.0
